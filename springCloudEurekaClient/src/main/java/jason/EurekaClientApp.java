@@ -29,6 +29,6 @@ public class EurekaClientApp
     @RequestMapping("/hello")
     public String home(@RequestParam String name)
     {
-        return "hello" + name + ",xxxx from port" + port;
+        return "hello " + name + ",xxxx from port" + port;
     }
 }
