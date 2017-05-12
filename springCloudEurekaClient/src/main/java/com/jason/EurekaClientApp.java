@@ -1,4 +1,4 @@
-package jason;
+package com.jason;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
